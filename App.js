@@ -18,6 +18,6 @@ const styles = StyleSheet.create({
   },
   content: {
     color: 'salmon',
-    fontSize: '3em'
+    fontSize: 48
   }
 });
